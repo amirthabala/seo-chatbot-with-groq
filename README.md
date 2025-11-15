@@ -129,7 +129,7 @@ http://127.0.0.1:7860
 
 ---
 
-## 🧪 Usage Examples
+## Usage Examples
 
 ### 🔸 Rank my website for specific keyword  
 > "Check my website www.example.com for the keyword *best dentist in Mumbai*"
